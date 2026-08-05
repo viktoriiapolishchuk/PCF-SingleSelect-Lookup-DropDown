@@ -4,6 +4,7 @@ stored in a Dataverse table.
 Simply select a source table and the field whose value should be stored in the text field. 
 Optionally, you can specify a description field to provide additional context and a filter to limit 
 the available options. 
+https://youtu.be/XbAVxAQVH4Y
 ## Common scenarios 
 - A field was originally created as text but later needs to be extended with a dropdown 
 (e.g. adding a country dropdown to the standard Country/Region field on Account to 
